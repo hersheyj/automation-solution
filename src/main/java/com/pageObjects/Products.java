@@ -9,7 +9,6 @@ import java.util.List;
 
 public class Products {
 
-
     private WebDriver driver;
 
     public Products(WebDriver driver) {

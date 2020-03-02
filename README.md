@@ -8,3 +8,6 @@ sign in section after adding products
 ```
 src/test/java/com/test/SampleTest.java 
 ```
+
+## Author
+Harsh Jain
